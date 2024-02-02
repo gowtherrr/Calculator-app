@@ -1,2 +1,4 @@
 # Calculator-app
-Calculator Application (HTML , CSS , JAVA SCRIPT
+Calculator Application (HTML , CSS , JAVA SCRIPT)
+
+Aumar Tristan Encisa
