@@ -1,0 +1,46 @@
+body {
+  background-color: #435000;
+  padding-top: 20px;
+}
+
+.Calculator {
+  border: 20px solid rgb(27, 27, 27);
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.Display {
+  color: aliceblue;
+  width: auto;
+  height: 70px;
+  background-color: rgb(64, 64, 64);
+  border: 5px solid rgb(50, 50, 50);
+}
+
+.Input {
+  color: aliceblue;
+  width: auto;
+  height: 70px;
+  background-color: rgb(50, 50, 50);
+  border: 5px solid rgb(64, 64, 64);
+}
+
+label {
+  display: block;
+  font-size: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: right;
+  direction: rtl;
+  text-overflow: clip;
+  overflow: hidden;
+  cursor: default;
+}
+
+button {
+  color: aliceblue;
+  width: 25%;
+  height: 70px;
+  background-color: rgb(64, 64, 64);
+}
